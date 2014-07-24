@@ -1,0 +1,6 @@
+c:\users\marek\documents\visual studio 2013\Projects\RamCpuMeterArduino\RamCpuMeterArduino\bin\Debug\RamCpuMeterArduino.exe.config
+c:\users\marek\documents\visual studio 2013\Projects\RamCpuMeterArduino\RamCpuMeterArduino\bin\Debug\RamCpuMeterArduino.exe
+c:\users\marek\documents\visual studio 2013\Projects\RamCpuMeterArduino\RamCpuMeterArduino\bin\Debug\RamCpuMeterArduino.pdb
+c:\users\marek\documents\visual studio 2013\Projects\RamCpuMeterArduino\RamCpuMeterArduino\obj\Debug\RamCpuMeterArduino.csprojResolveAssemblyReference.cache
+c:\users\marek\documents\visual studio 2013\Projects\RamCpuMeterArduino\RamCpuMeterArduino\obj\Debug\RamCpuMeterArduino.exe
+c:\users\marek\documents\visual studio 2013\Projects\RamCpuMeterArduino\RamCpuMeterArduino\obj\Debug\RamCpuMeterArduino.pdb
